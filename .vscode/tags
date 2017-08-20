@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACCESS_TOKEN_URL	../tumblr.py	/^ACCESS_TOKEN_URL = "https:\/\/www.tumblr.com\/oauth\/access_token"$/;"	kind:variable	line:8
+API_KEY	../tumblr.py	/^API_KEY = "XJWBWvTN084tzwjXAV64sH12E8xeXz106J8nS5NFol6FZQu4d1"$/;"	kind:variable	line:16
+API_URL	../tumblr.py	/^API_URL = "https:\/\/api.tumblr.com"$/;"	kind:variable	line:10
+AUTH_URL	../tumblr.py	/^AUTH_URL = "https:\/\/www.tumblr.com\/oauth\/authorize"$/;"	kind:variable	line:7
+CONSUMER_KEY	../tumblr.py	/^CONSUMER_KEY = "XJWBWvTN084tzwjXAV64sH12E8xeXz106J8nS5NFol6FZQu4d1"$/;"	kind:variable	line:12
+CONSUMER_SECRET	../tumblr.py	/^CONSUMER_SECRET = "eZxMAtXgZZzYjzIpCUgqAKALBlJOqC799svcL2wDKJaprFsi5k"$/;"	kind:variable	line:13
+FOLLOWING	../tumblr.py	/^FOLLOWING = 'https:\/\/api.tumblr.com\/v2\/user\/following'$/;"	kind:variable	line:18
+OAuth1	../tumblr.py	/^from requests_oauthlib import OAuth1$/;"	kind:namespace	line:3
+REQUEST_TOKEN_URL	../tumblr.py	/^REQUEST_TOKEN_URL = "https:\/\/www.tumblr.com\/oauth\/request_token"$/;"	kind:variable	line:9
+TOKEN	../tumblr.py	/^TOKEN = "uIkM3Y2xWmi46aUSR5T6F9LGW91Oqk1XENiVmUMUDeitWJy07Y"$/;"	kind:variable	line:14
+TOKEN_SECRET	../tumblr.py	/^TOKEN_SECRET = "7vxktxKCudoa1l30H7PfsToary65KdoeL8HsZIQFX8qTDAkVSK"$/;"	kind:variable	line:15
+UNFOLLOW	../tumblr.py	/^UNFOLLOW = 'https:\/\/api.tumblr.com\/v2\/user\/unfollow'$/;"	kind:variable	line:19
+ceil	../tumblr.py	/^from math import ceil$/;"	kind:namespace	line:5
+client_secret	../tumblr.py	/^  client_secret=CONSUMER_SECRET,$/;"	kind:variable	line:23
+current_blogs	../tumblr.py	/^current_blogs = process_blogs()$/;"	kind:variable	line:62
+get_data	../tumblr.py	/^def get_data(url, my_auth, my_params):$/;"	kind:function	line:28
+oauth	../tumblr.py	/^oauth = OAuth1($/;"	kind:variable	line:21
+parse_qs	../tumblr.py	/^from urllib.parse import parse_qs$/;"	kind:namespace	line:4
+process_blogs	../tumblr.py	/^def process_blogs():$/;"	kind:function	line:43
+process_current_blogs	../tumblr.py	/^def process_current_blogs(blogs):$/;"	kind:function	line:36
+requests	../tumblr.py	/^import requests$/;"	kind:namespace	line:2
+resource_owner_key	../tumblr.py	/^  resource_owner_key=TOKEN,$/;"	kind:variable	line:24
+resource_owner_secret	../tumblr.py	/^  resource_owner_secret=TOKEN_SECRET,$/;"	kind:variable	line:25
+signature_type	../tumblr.py	/^  signature_type='auth_header')$/;"	kind:variable	line:26
+tumblr.py	../tumblr.py	1;"	kind:file	line:1
+unfollow	../tumblr.py	/^def unfollow(url, my_auth, url_params):$/;"	kind:function	line:33
