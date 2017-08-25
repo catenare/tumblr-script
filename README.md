@@ -6,6 +6,7 @@ Python script to delete all the blogs I follow from tumblr.
 ## Setup Instructions
 1. Create an app in tumblr.
   * https://www.tumblr.com/oauth/apps
+  * [Register App](images/register.png)
 1. Get OAuth details
   * https://api.tumblr.com/console/calls/user/info
 1. Get keys and tokens.
