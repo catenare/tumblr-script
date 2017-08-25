@@ -60,8 +60,7 @@ def process_list(blogs):
       'title': blog.get('title'),
       'description': blog.get('description')
     }
-    print(data)
-    return data
+    print(data['url'])
 
 
 # Retrieve data from tumblr
@@ -118,6 +117,6 @@ def blog_action(action):
 
 def main():
   blog_action(process_list)
-  # unfollow_blogs()
+  unfollow_blogs()
   
 main()
