@@ -1,16 +1,1 @@
-Consumer key: XJWBWvTN084tzwjXAV64sH12E8xeXz106J8nS5NFol6FZQu4d1
-Secret key: eZxMAtXgZZzYjzIpCUgqAKALBlJOqC799svcL2wDKJaprFsi5k
 
-Request-token URL	https://www.tumblr.com/oauth/request_token
-Authorize URL	https://www.tumblr.com/oauth/authorize
-Access-token URL	https://www.tumblr.com/oauth/access_token
-API URL api.tumblr.com
-
-b'oauth_token=uFeRazm5mGzYVqVPJ0Bob44xCk6UGdPIgZf8rzqxzHjZiRjzGu&oauth_token_secret=eQwMwtB6LlSKq7epGJQ9BUcHCHRWRUpcJ5AzrI5jJRMxVXZs8Q&oauth_callback_confirmed=true'
-
-
-Consumer Key XJWBWvTN084tzwjXAV64sH12E8xeXz106J8nS5NFol6FZQu4d1
-Consumer Secret eZxMAtXgZZzYjzIpCUgqAKALBlJOqC799svcL2wDKJaprFsi5k
-Token H6JJhoqUCOtSuDYgo6QCXyf3oT56v8kFuQk1ztUpDuXyOnN29H
-Token Secret XDZM928Ag1ymW1y5GRLMxoecQNn4OAUsswtRU1fhGtIuqg48Ue
-API Key XJWBWvTN084tzwjXAV64sH12E8xeXz106J8nS5NFol6FZQu4d1

@@ -5,28 +5,33 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 ACCESS_TOKEN_URL	../tumblr.py	/^ACCESS_TOKEN_URL = "https:\/\/www.tumblr.com\/oauth\/access_token"$/;"	kind:variable	line:8
-API_KEY	../tumblr.py	/^API_KEY = "XJWBWvTN084tzwjXAV64sH12E8xeXz106J8nS5NFol6FZQu4d1"$/;"	kind:variable	line:16
+API_KEY	../tumblr.py	/^API_KEY = "Kge4tn7ac4bCz39uQ53vb6Msg1GZsmuaRzAvWHN8kmFTxzEifG"$/;"	kind:variable	line:16
 API_URL	../tumblr.py	/^API_URL = "https:\/\/api.tumblr.com"$/;"	kind:variable	line:10
 AUTH_URL	../tumblr.py	/^AUTH_URL = "https:\/\/www.tumblr.com\/oauth\/authorize"$/;"	kind:variable	line:7
-CONSUMER_KEY	../tumblr.py	/^CONSUMER_KEY = "XJWBWvTN084tzwjXAV64sH12E8xeXz106J8nS5NFol6FZQu4d1"$/;"	kind:variable	line:12
-CONSUMER_SECRET	../tumblr.py	/^CONSUMER_SECRET = "eZxMAtXgZZzYjzIpCUgqAKALBlJOqC799svcL2wDKJaprFsi5k"$/;"	kind:variable	line:13
-FOLLOWING	../tumblr.py	/^FOLLOWING = 'https:\/\/api.tumblr.com\/v2\/user\/following'$/;"	kind:variable	line:18
+CONSUMER_KEY	../tumblr.py	/^CONSUMER_KEY = "Kge4tn7ac4bCz39uQ53vb6Msg1GZsmuaRzAvWHN8kmFTxzEifG"$/;"	kind:variable	line:12
+CONSUMER_SECRET	../tumblr.py	/^CONSUMER_SECRET = "lZ0x2v66LtnbcaIFGagRoCncYi9Si5cgTD8qFcEbu81Ke3fv7D"$/;"	kind:variable	line:13
+FOLLOWING	../tumblr.py	/^FOLLOWING = 'https:\/\/api.tumblr.com\/v2\/user\/following'$/;"	kind:variable	line:27
 OAuth1	../tumblr.py	/^from requests_oauthlib import OAuth1$/;"	kind:namespace	line:3
+Observable	../testrx.py	/^from rx import Observable, Observer$/;"	kind:namespace	line:1
+Observer	../testrx.py	/^from rx import Observable, Observer$/;"	kind:namespace	line:1
 REQUEST_TOKEN_URL	../tumblr.py	/^REQUEST_TOKEN_URL = "https:\/\/www.tumblr.com\/oauth\/request_token"$/;"	kind:variable	line:9
-TOKEN	../tumblr.py	/^TOKEN = "uIkM3Y2xWmi46aUSR5T6F9LGW91Oqk1XENiVmUMUDeitWJy07Y"$/;"	kind:variable	line:14
-TOKEN_SECRET	../tumblr.py	/^TOKEN_SECRET = "7vxktxKCudoa1l30H7PfsToary65KdoeL8HsZIQFX8qTDAkVSK"$/;"	kind:variable	line:15
-UNFOLLOW	../tumblr.py	/^UNFOLLOW = 'https:\/\/api.tumblr.com\/v2\/user\/unfollow'$/;"	kind:variable	line:19
+TOKEN	../tumblr.py	/^TOKEN = "zTo0XVwIz2jKJxMiJmOQPHdT6oN7aiMouHbvWkzvrihnUR8FxG"$/;"	kind:variable	line:14
+TOKEN_SECRET	../tumblr.py	/^TOKEN_SECRET = "oNpnHCBJTIAhyUiJ125YlR8Bc0ZPCxo1Otr0rr9yoPwElPrJfl"$/;"	kind:variable	line:15
+UNFOLLOW	../tumblr.py	/^UNFOLLOW = 'https:\/\/api.tumblr.com\/v2\/user\/unfollow'$/;"	kind:variable	line:28
 ceil	../tumblr.py	/^from math import ceil$/;"	kind:namespace	line:5
-client_secret	../tumblr.py	/^  client_secret=CONSUMER_SECRET,$/;"	kind:variable	line:23
-current_blogs	../tumblr.py	/^current_blogs = process_blogs()$/;"	kind:variable	line:62
-get_data	../tumblr.py	/^def get_data(url, my_auth, my_params):$/;"	kind:function	line:28
-oauth	../tumblr.py	/^oauth = OAuth1($/;"	kind:variable	line:21
+client_secret	../tumblr.py	/^  client_secret=CONSUMER_SECRET,$/;"	kind:variable	line:32
+get_blog_data	../tumblr.py	/^def get_blog_data(action=FOLLOWING, offset=0, limit=20):$/;"	kind:function	line:54
+get_data	../tumblr.py	/^def get_data(url, my_auth, my_params):$/;"	kind:function	line:37
+main	../tumblr.py	/^def main():$/;"	kind:function	line:67
+num_flow	../testrx.py	/^num_flow = Observable.from_(num_stream)$/;"	kind:variable	line:5
+num_stream	../testrx.py	/^num_stream = [1, 2, 3, 4]$/;"	kind:variable	line:3
+oauth	../tumblr.py	/^oauth = OAuth1($/;"	kind:variable	line:30
 parse_qs	../tumblr.py	/^from urllib.parse import parse_qs$/;"	kind:namespace	line:4
-process_blogs	../tumblr.py	/^def process_blogs():$/;"	kind:function	line:43
-process_current_blogs	../tumblr.py	/^def process_current_blogs(blogs):$/;"	kind:function	line:36
 requests	../tumblr.py	/^import requests$/;"	kind:namespace	line:2
-resource_owner_key	../tumblr.py	/^  resource_owner_key=TOKEN,$/;"	kind:variable	line:24
-resource_owner_secret	../tumblr.py	/^  resource_owner_secret=TOKEN_SECRET,$/;"	kind:variable	line:25
-signature_type	../tumblr.py	/^  signature_type='auth_header')$/;"	kind:variable	line:26
+resource_owner_key	../tumblr.py	/^  resource_owner_key=TOKEN,$/;"	kind:variable	line:33
+resource_owner_secret	../tumblr.py	/^  resource_owner_secret=TOKEN_SECRET$/;"	kind:variable	line:34
+testrx.py	../testrx.py	1;"	kind:file	line:1
 tumblr.py	../tumblr.py	1;"	kind:file	line:1
-unfollow	../tumblr.py	/^def unfollow(url, my_auth, url_params):$/;"	kind:function	line:33
+unfollow	../tumblr.py	/^def unfollow(url, my_auth, url_params):$/;"	kind:function	line:42
+unfollow_all	../tumblr.py	/^def unfollow_all():$/;"	kind:function	line:60
+unfollow_blogs	../tumblr.py	/^def unfollow_blogs(blogs):$/;"	kind:function	line:45
